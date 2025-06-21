@@ -169,4 +169,4 @@ To run this notebook and reproduce the results, please follow these steps:
    # Install required libraries
    pip install pandas scikit-learn tensorflow keras matplotlib seaborn joblib
    ## 8. video link
-   https://www.canva.com/design/DAGquzyaUUE/6xmYPdj6f941H7033B81Ww/edit
+   https://youtu.be/nJim8-2WnKQ
