@@ -148,8 +148,10 @@ After training and validating all models, the **NN_Model_3_Adam_Dropout_ES.h5** 
 * **Test ROC AUC:** 0.9885
 
 These test results confirm that the chosen model maintains strong generalization capabilities on new, unseen data, reflecting its robust performance during validation.
+  ** 7. video link
+   [video link](https://youtu.be/nJim8-2WnKQ)
 
-## 7. Instructions to Run the Notebook
+## 8. Instructions to Run the Notebook
 
 To run this notebook and reproduce the results, please follow these steps:
 
@@ -168,6 +170,5 @@ To run this notebook and reproduce the results, please follow these steps:
 
    # Install required libraries
    pip install pandas scikit-learn tensorflow keras matplotlib seaborn joblib
-   ** 8. video link
-   [video link](https://youtu.be/nJim8-2WnKQ)
+ 
 
